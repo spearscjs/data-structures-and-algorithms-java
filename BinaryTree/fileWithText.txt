@@ -1,0 +1,4 @@
+computer science
+basic data structures and algorithms
+enter an input file name to decode morse code and output the translated text to the screen
+enter an input file to encode text and output the translated morse code to the screen
